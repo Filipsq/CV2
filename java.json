@@ -1,0 +1,33 @@
+{
+    ".showgunners, .watchdogs, .predator, .wildrift, .theascent, .battletech": {
+      "position": "absolute",
+      "z-index": 3,
+      "width": "250px",
+      "height": "150px"
+    },
+    ".showgunners": {
+      "margin-top": "1570px",
+      "margin-left": "1500px"
+    },
+    ".predator": {
+      "margin-top": "1570px",
+      "margin-left": "1240px"
+    },
+    ".wildrift": {
+      "margin-top": "1730px",
+      "margin-left": "1500px"
+    },
+    ".theascent": {
+      "margin-top": "1890px",
+      "margin-left": "1500px"
+    },
+    ".battletech": {
+      "margin-top": "1730px",
+      "margin-left": "1240px"
+    },
+    ".watchdogs": {
+      "margin-top": "1890px",
+      "margin-left": "1240px"
+    }
+  }
+  
